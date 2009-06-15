@@ -1,0 +1,11 @@
+A port of jscolor color selector. Now it is a jQuery plugin for easier customizability.
+
+Currently not written to take full advantage of jQuery, so still a bit bulky.
+
+Setup:
+
+  Put images folder in you web root.
+
+
+Example Usage:
+    $('input.color').colorPicker();
